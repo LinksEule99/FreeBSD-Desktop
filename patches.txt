@@ -1,0 +1,28 @@
+
+        My patches for dwm
+
+
+    -1- always center
+    -2- attachbottom
+    -3- autostart
+    -4- move stack
+    -5- pertag
+    -6- statusallmons
+    -7- warp
+    -8- systray
+    -9- alpha -
+   -10- vanitygaps
+   -11- swallow
+   -12- status2d
+   -13- statuspadding
+   -14- fullscreen
+   -15- alternativetags -
+   -16- cyclelayouts
+   -17- centeredwindowname
+   -18- exitmenu -
+   -19- resizecorners
+   -20- statusbaronallmonitors
+   -21- scratchpad -
+   -22- scratchpads
+   -23- restartsig
+   -24- removeborder -

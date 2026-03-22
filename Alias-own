@@ -1,0 +1,1 @@
+alias ownhere='chown -R henry:henry "$PWD"'
